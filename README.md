@@ -30,7 +30,7 @@ Teaching hours: 40h + 20h courses
     IMPMC – 23‐24 – 423
 
 
-### Objective 
+### Objectives 
 
 This course introduces experimental and theoretical methods for materials properties investigation from the physicist point of view. The goals are the following: 
 * to provide the graduate student, whether more experimentalist or more theoretician, a good knowledge and comprehension of the physics behind the experimental and theoretical approaches currently used in materials science
