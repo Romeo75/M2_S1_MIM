@@ -59,3 +59,6 @@ This course introduces experimental and theoretical methods for materials proper
  
 * “Exp.” Part: final written examination 
 * “Modelling” part: final written examination
+
+
+lol
